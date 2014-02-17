@@ -20,10 +20,10 @@ Gem::Specification.new do |spec|
   
   [
     [ 'sass-rails',         '~> 3.1'      ],          # pretty code; compiles to CSS
-    [ 'coffee-rails',       '~> 3.1'      ],          # pretty code; compiles to JS
+#    [ 'coffee-rails',       '~> 3.1'      ],          # pretty code; compiles to JS
     [ 'uglifier'                          ],          # makes pretty code ugly again.  compresses js/css for fast loading
     
-    [ 'jquery-rails',       '~> 2.1.4'    ],          # main js framework, along with rails-specific unobtrusive lib
+    [ 'jquery-rails',       '~> 2.3'      ],          # main js framework, along with rails-specific unobtrusive lib
     [ 'jquerymobile-rails', '~> 0.2'      ],                                          
     [ 'tinymce-rails',      '~> 3.4'      ],          # wysiwyg editor
   

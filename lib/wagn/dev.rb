@@ -1,7 +1,7 @@
 require "wagn/dev/version"
 
 require 'sass-rails'
-require 'coffee-rails'
+#require 'coffee-rails'
 require 'uglifier'
 
 require 'jquery-rails'
