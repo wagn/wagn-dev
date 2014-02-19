@@ -19,8 +19,8 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   
   [
-    [ 'sass-rails',         '~> 3.1'      ],          # pretty code; compiles to CSS
-#    [ 'coffee-rails',       '~> 3.1'      ],          # pretty code; compiles to JS
+#    [ 'sass-rails',         '~> 3.1'      ],          # pretty code; compiles to CSS
+    [ 'coffee-rails',       '~> 3.1'      ],          # pretty code; compiles to JS
     [ 'uglifier'                          ],          # makes pretty code ugly again.  compresses js/css for fast loading
     
     [ 'jquery-rails',       '~> 2.3'      ],          # main js framework, along with rails-specific unobtrusive lib
