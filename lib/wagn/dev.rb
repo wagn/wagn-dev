@@ -5,7 +5,7 @@ require 'coffee-rails'
 require 'uglifier'
 
 require 'jquery-rails'
-require 'jquerymobile-rails'
+require 'jquery_mobile_rails'
 require 'tinymce-rails'
 
 require 'rails-dev-tweaks'
