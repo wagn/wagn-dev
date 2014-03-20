@@ -1,11 +1,12 @@
 require "wagn/dev/version"
 
-#require 'sass-rails'
 require 'coffee-rails'
 require 'uglifier'
 
 require 'jquery-rails'
+require 'jquery-ui-rails'
 require 'jquery_mobile_rails'
+
 require 'tinymce-rails'
 
 require 'rails-dev-tweaks'
