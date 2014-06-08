@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
                                          
     [ 'tinymce-rails',      '~> 3.4' ],  # wysiwyg editor                                         
                                          
-    [ 'rails-dev-tweaks',   '~> 0.6' ],  # dramatic speeds up asset loading, among other tweaks
+    #[ 'rails-dev-tweaks',   '~> 0.6' ],  # dramatic speeds up asset loading, among other tweaks
     [ 'rspec-rails',        '~> 2.6' ]   # behavior-driven-development suite
   
   
