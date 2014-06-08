@@ -9,7 +9,7 @@ require 'jquery_mobile_rails'
 
 require 'tinymce-rails'
 
-require 'rails-dev-tweaks'
+#require 'rails-dev-tweaks'
 require 'rspec-rails'
 
 
